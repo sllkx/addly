@@ -48,7 +48,7 @@ function loadBanner(divId = '1', userId = 'admin', width = 300, height = 250, co
       fixedIcon.href = 'https://addly.isai.kr/';
       fixedIcon.target = '_blank';
       const fixedImg = document.createElement('img');
-      fixedImg.src = 'https://cdn.jsdelivr.net/npm/cdnhost@latest/addlybear.png';
+      fixedImg.src = 'https://cdn.jsdelivr.net/gh/sllkx/icons@main/logo/addlybear.png';
       fixedImg.alt = 'a';
       fixedImg.style.width = '100%';
 
@@ -149,4 +149,5 @@ function loadBanner(divId = '1', userId = 'admin', width = 300, height = 250, co
     .catch(err => {
       console.error('배너 로드 실패:', err);
     });
+
 }
