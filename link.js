@@ -142,7 +142,6 @@
     "//iiiiii.iwinv.net", "//oooooo.iwinv.net", "//eeeeee.iwinv.net", "//aaaaaa.iwinv.net",
     "//zzzzzz.iwinv.net", "//tttttt.iwinv.net", "//ssssss.iwinv.net", "//minecraft.iwinv.net",
     
-    // --- 새로 추가된 URL 리스트 (https:// 를 // 로 변경, 맨 뒤 / 제거) ---
     "//a9.1x8.workers.dev", "//a8.1x8.workers.dev", "//a7.1x8.workers.dev", 
     "//a6.1x8.workers.dev", "//a5.1x8.workers.dev", "//a4.1x8.workers.dev", 
     "//ww.1x8.workers.dev", "//a3.1x8.workers.dev", "//a2.1x8.workers.dev", 
