@@ -142,23 +142,24 @@
     "//iiiiii.iwinv.net", "//oooooo.iwinv.net", "//eeeeee.iwinv.net", "//aaaaaa.iwinv.net",
     "//zzzzzz.iwinv.net", "//tttttt.iwinv.net", "//ssssss.iwinv.net", "//minecraft.iwinv.net",
     
-    "https://a9.1x8.workers.dev/", "https://a8.1x8.workers.dev/", "https://a7.1x8.workers.dev/", 
-    "https://a6.1x8.workers.dev/", "https://a5.1x8.workers.dev/", "https://a4.1x8.workers.dev/", 
-    "https://ww.1x8.workers.dev/", "https://a3.1x8.workers.dev/", "https://a2.1x8.workers.dev/", 
-    "https://a1.1x8.workers.dev/", "https://ac.1x8.workers.dev/", "https://ab.1x8.workers.dev/", 
-    "https://aa.1x8.workers.dev/", "https://5.1x8.workers.dev/", "https://6.1x8.workers.dev/", 
-    "https://7.1x8.workers.dev/", "https://www.gfcoin.workers.dev/", "https://ja.gfcoin.workers.dev/", 
-    "https://jp.gfcoin.workers.dev/", "https://japan.gfcoin.workers.dev/", "https://a.gfcoin.workers.dev/", 
-    "https://yahoo.gfcoin.workers.dev/", "https://x.gfcoin.workers.dev/", "https://twitter.gfcoin.workers.dev/", 
-    "https://wp.gfcoin.workers.dev/", "https://news.gfcoin.workers.dev/", "https://9.1x8.workers.dev/", 
-    "https://8.1x8.workers.dev/", "https://oo.1x8.workers.dev/", "https://blogger.1x8.workers.dev/", 
-    "https://pin.1x8.workers.dev/", "https://hi.1x8.workers.dev/", "https://ms.1x8.workers.dev/", 
-    "https://facebook.1x8.workers.dev/", "https://google.1x8.workers.dev/", "https://news.1x8.workers.dev/", 
-    "https://hi.gfcoin.workers.dev/", "https://4.gfcoin.workers.dev/", "https://pin.gfcoin.workers.dev/", 
-    "https://ko.gfcoin.workers.dev/", "https://net.gfcoin.workers.dev/", "https://10.gfcoin.workers.dev/", 
-    "https://blog.gfcoin.workers.dev/", "https://post.gfcoin.workers.dev/", "https://com.gfcoin.workers.dev/", 
-    "https://io.gfcoin.workers.dev/", "https://japanese.gfcoin.workers.dev/", "https://jpn.gfcoin.workers.dev/", 
-    "https://google.gfcoin.workers.dev/"
+    // --- 새로 추가된 URL 리스트 (https:// 를 // 로 변경, 맨 뒤 / 제거) ---
+    "//a9.1x8.workers.dev", "//a8.1x8.workers.dev", "//a7.1x8.workers.dev", 
+    "//a6.1x8.workers.dev", "//a5.1x8.workers.dev", "//a4.1x8.workers.dev", 
+    "//ww.1x8.workers.dev", "//a3.1x8.workers.dev", "//a2.1x8.workers.dev", 
+    "//a1.1x8.workers.dev", "//ac.1x8.workers.dev", "//ab.1x8.workers.dev", 
+    "//aa.1x8.workers.dev", "//5.1x8.workers.dev", "//6.1x8.workers.dev", 
+    "//7.1x8.workers.dev", "//www.gfcoin.workers.dev", "//ja.gfcoin.workers.dev", 
+    "//jp.gfcoin.workers.dev", "//japan.gfcoin.workers.dev", "//a.gfcoin.workers.dev", 
+    "//yahoo.gfcoin.workers.dev", "//x.gfcoin.workers.dev", "//twitter.gfcoin.workers.dev", 
+    "//wp.gfcoin.workers.dev", "//news.gfcoin.workers.dev", "//9.1x8.workers.dev", 
+    "//8.1x8.workers.dev", "//oo.1x8.workers.dev", "//blogger.1x8.workers.dev", 
+    "//pin.1x8.workers.dev", "//hi.1x8.workers.dev", "//ms.1x8.workers.dev", 
+    "//facebook.1x8.workers.dev", "//google.1x8.workers.dev", "//news.1x8.workers.dev", 
+    "//hi.gfcoin.workers.dev", "//4.gfcoin.workers.dev", "//pin.gfcoin.workers.dev", 
+    "//ko.gfcoin.workers.dev", "//net.gfcoin.workers.dev", "//10.gfcoin.workers.dev", 
+    "//blog.gfcoin.workers.dev", "//post.gfcoin.workers.dev", "//com.gfcoin.workers.dev", 
+    "//io.gfcoin.workers.dev", "//japanese.gfcoin.workers.dev", "//jpn.gfcoin.workers.dev", 
+    "//google.gfcoin.workers.dev"
   ])];
 
   const icons = [
